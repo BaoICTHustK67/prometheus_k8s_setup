@@ -1,2 +1,2 @@
-# VDT Prometheus Deploy using Prometheus-operator
+# VDT Prometheus Deployment using Prometheus-operator
 ## Name: Hoang Ba Bao
